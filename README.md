@@ -1,10 +1,10 @@
-Fruit Snake Battle 🐍🍎
+# Fruit Snake Battle 🐍🍎
 
 A browser-based Snake Battle game where you don't just eat fruit — you fight computer-controlled snakes for survival.
 
 Eat fruit to grow, outmaneuver your opponents, and turn defeated snakes into food for the remaining players.
-
-🎮 Live Demo
+____ 
+# 🎮 Live Demo
 
 Play Fruit Snake Battle
 
@@ -70,7 +70,7 @@ A balanced experience between challenge and accessibility.
 Expert
 Computer snakes behave more aggressively, creating a more challenging battle.
 
-🛠️ Technologies
+# 🛠️ Technologies
 HTML5
 CSS3
 JavaScript
@@ -78,7 +78,7 @@ Canvas API
 
 No external framework or backend is required.
 
-🚀 Running Locally
+# 🚀 Running Locally
 
 Clone the repository:
 
@@ -99,7 +99,7 @@ fruit-snake-battle/
 ├── README.md
 ├── assets/
 └── screenshots/
-🎯 Project Goals
+# 🎯 Project Goals
 
 This project was built as a practical exercise in:
 
@@ -117,7 +117,7 @@ Using Git and GitHub for version control
 
 Potential future features include:
 
-🏅 Leaderboards
+# 🏅 Leaderboards
 🔊 Sound effects and background music
 💎 Power-ups
 🗺️ Multiple arena maps
