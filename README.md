@@ -8,26 +8,26 @@ ____
 
 Play Fruit Snake Battle
 
- ✨ Features
- 🐍 Player-controlled snake
- 🤖 Computer-controlled opponent snakes
- 🍎 Fruit collection and snake growth
- 💀 Defeated snake bodies turn into collectible fruit
- ⚔️ Battle against AI opponents
- 🎯 Three difficulty levels:
-     Novice
-     Beginner
-     Expert
+- ✨ Features
+- 🐍 Player-controlled snake
+- 🤖 Computer-controlled opponent snakes
+- 🍎 Fruit collection and snake growth
+- 💀 Defeated snake bodies turn into collectible fruit
+- ⚔️ Battle against AI opponents
+- 🎯 Three difficulty levels:
+    * Novice
+    * Beginner
+    * Expert
 ⚡ Three game speeds:
-Slow
-Normal
-Fast
-🎨 Custom snake colors
-🏆 Win state when all opponents are defeated
-💥 Game-over state when the player crashes
-🎮 Keyboard controls using Arrow Keys or WASD
-📱 Responsive landing page
-🕹️ How to Play
+- Slow
+- Normal
+- Fast
+- 🎨 Custom snake colors
+- 🏆 Win state when all opponents are defeated
+- 💥 Game-over state when the player crashes
+- 🎮 Keyboard controls using Arrow Keys or WASD
+- 📱 Responsive landing page
+- 🕹️ How to Play
 Controls
 Action	Controls
 Move Up	↑ / W
