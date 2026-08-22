@@ -30,21 +30,21 @@ Play Fruit Snake Battle
 - 🕹️ How to Play
 Controls
 Action	Controls
-Move Up	↑ / W
-Move Down	↓ / S
-Move Left	← / A
-Move Right	→ / D
+- Move Up	↑ / W
+- Move Down	↓ / S
+- Move Left	← / A
+- Move Right	→ / D
 Objective
-Choose your snake color.
-Select a difficulty level.
-Select your preferred game speed.
-Enter the arena.
-Eat fruit to grow.
-Avoid walls and collisions.
-Battle the computer snakes.
-When a snake is defeated, its body becomes fruit.
-Eat that fruit to grow even larger.
-Defeat every opponent and become the ultimate snake.
+   Choose your snake color.
+   Select a difficulty level.
+   Select your preferred game speed.
+   Enter the arena.
+   Eat fruit to grow.
+   Avoid walls and collisions.
+   Battle the computer snakes.
+   When a snake is defeated, its body becomes fruit.
+   Eat that fruit to grow even larger.
+   Defeat every opponent and become the ultimate snake.
 🧠 Game Mechanics
 
 The game combines classic Snake mechanics with a simple battle-arena system.
@@ -71,10 +71,10 @@ Expert
 Computer snakes behave more aggressively, creating a more challenging battle.
 
 # 🛠️ Technologies
-HTML5
-CSS3
-JavaScript
-Canvas API
+- HTML5
+- CSS3
+- JavaScript
+- Canvas API
 
 No external framework or backend is required.
 
